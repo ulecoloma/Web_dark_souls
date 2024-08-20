@@ -1,0 +1,31 @@
+body {
+    position: relative;
+    padding-bottom: 3em;
+    min-height: 100vh;
+
+}
+h1 {
+
+    text-align: center;
+    color: blue
+}
+
+.container {
+
+    text-align: center;
+    background-color: slateblue;
+    height: 100px;
+}
+
+.texto1 {
+
+    text-align: center;
+}
+
+.footer {
+    background-color: darkgrey;
+    color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
